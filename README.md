@@ -30,10 +30,10 @@ Concepts: OOP (Classes, Inheritance, Encapsulation), Exception Handling
 📂 Project Structure
 
 Parking-Toll-System/
-│── parking_lot.py                                                   # Core logic (Vehicle, ParkingLot classes)  
-│── test_parking_lot.py                                              # PyTest unit test cases  
-│── demo.py                                                          # Sample script to run the system  
-│── README.md                                                        # Documentation  
+                                                             │── parking_lot.py                                                   # Core logic (Vehicle, ParkingLot classes)  
+                                                              │── test_parking_lot.py                                              # PyTest unit test cases  
+                                                               │── demo.py                                                          # Sample script to run the system  
+                                                                │── README.md                                                        # Documentation  
 
 🚀 Installation & Setup
 
